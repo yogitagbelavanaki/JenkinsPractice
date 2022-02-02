@@ -1,0 +1,6 @@
+//a[contains(text(),'Computing and Internet')]
+
+String Mobile name= "Oneplus"
+//span[contains(text(),'"+Mobilename+"')]/following::span[text()='"+1,999+"']
+
+//a[text()='Computing and Internet']/../following-sibling::div[@class='add-info']/child::div/child::span[contains(@class,' actual-price')]
